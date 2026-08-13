@@ -1,8 +1,4 @@
-"""
-ECHO://THE_LAST_LINE — app.py
-A voice-driven visual novel with AI scene art:
-speak your actions, the Weaver (Groq) writes the story, Pollinations paints it.
-"""
+
 import hashlib
 import html
 import os
