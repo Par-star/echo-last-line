@@ -1,9 +1,4 @@
-"""
-ECHO://THE_LAST_LINE — engine.py
-The Groq-powered brain of the game:
-  * whisper-large-v3-turbo  -> speech-to-text (your voice -> words)
-  * llama-3.3-70b-versatile -> The Weaver (words -> living story + game state)
-"""
+
 import os
 import re
 import json
