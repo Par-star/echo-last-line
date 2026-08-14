@@ -6,6 +6,8 @@ A **voice-driven visual novel / AI Dungeon Master** where your spoken words lite
 
 🔗 **Live demo:** [https://echo-last-line-gby4utrgyinkhu32rflsns.streamlit.app/](https://echo-last-line-gby4utrgyinkhu32rflsns.streamlit.app/)
 
+🎬 **Video demo:** [Watch on YouTube](https://youtu.be/ukDFCUqDz_Q)
+
 ---
 
 ## ✨ Features
