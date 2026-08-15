@@ -13,7 +13,7 @@ except Exception:
 
 # --- Tunables ----------------------------------------------------------------
 STT_MODEL = os.getenv("GROQ_STT_MODEL", "whisper-large-v3-turbo")
-DM_MODEL = os.getenv("GROQ_DM_MODEL", "llama-3.3-70b-versatile")
+DM_MODEL = os.getenv("GROQ_DM_MODEL", "openai/gpt-oss-120b")
 
 # The full vocabulary of power words the game understands.
 POWER_WORDS = [
